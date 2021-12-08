@@ -8,6 +8,7 @@ body {
   height: 100vh;
   font-family: "Red Hat Display", sans-serif;
   overflow: hidden;
+  margin: 0;
 }
 
 .body-card {
@@ -96,6 +97,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   box-shadow: 1px 10px 30px #7280a7;
+  margin-bottom: 10px;
 }
 .body-card .btn-pay:hover {
   background-color: #7280a7;
